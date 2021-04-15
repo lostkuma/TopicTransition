@@ -1,4 +1,4 @@
-# Modeling Topic Transition
+# Modeling Topic Transition With Temporal Graphs
 
 Papers: 
 - Tracing Topic Transitions with Temporal Graph Clusters (FLAIRS'21) 
